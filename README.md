@@ -1,4 +1,4 @@
 # hamadsothman
 
 
-Data Scientist Working on Various projects 
+Data Scientist working on various projects 
